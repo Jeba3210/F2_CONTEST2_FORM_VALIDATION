@@ -48,6 +48,11 @@ If all validations pass, an alert will pop up saying:
 - CSS3
 - JavaScript (Vanilla)
 
-## 📬 Contact
+---
 
-Feel free to reach out if you have any suggestions or questions!
+## 👤 Author
+
+**Jeba Parvin**  
+Frontend Developer | JavaScript Enthusiast
+
+---
